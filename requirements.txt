@@ -1,0 +1,2 @@
+streamlit==1.2.0
+newscatcherapi==0.3.3
